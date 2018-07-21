@@ -2,7 +2,7 @@
 # dog.rb
 class Dog
 
-  def initialize(name, breed = "Mut")
+  def initialize(name, breed = "Mutt")
 
   def name=(dogs_name)
     @name = dogs_name
