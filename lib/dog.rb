@@ -2,9 +2,9 @@
 # dog.rb
 class Dog
 
-  def initialize(name, breed = "Mutt")
-    @name = name
-    @breed = breed
+  def initialize(n, b = "Mutt")
+    @name = n
+    @breed = b
   end
 
   def name
