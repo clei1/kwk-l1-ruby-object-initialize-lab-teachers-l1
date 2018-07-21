@@ -2,6 +2,6 @@
 
 class Person
 
-  def initialize(name, joob)
+  def initialize(name)
 
 end
